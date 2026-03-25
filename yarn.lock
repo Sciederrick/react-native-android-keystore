@@ -8139,7 +8139,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"release-it@npm:^19.0.4":
+"release-it@npm:^19.2.4":
   version: 19.2.4
   resolution: "release-it@npm:19.2.4"
   dependencies:
@@ -8321,7 +8321,7 @@ __metadata:
     react: "npm:19.2.0"
     react-native: "npm:0.83.0"
     react-native-builder-bob: "npm:^0.40.18"
-    release-it: "npm:^19.0.4"
+    release-it: "npm:^19.2.4"
     turbo: "npm:^2.5.6"
     typescript: "npm:^5.9.2"
   peerDependencies:

@@ -1,6 +1,6 @@
 {
   "name": "rn-android-keystore",
-  "version": "0.2.0",
+  "version": "0.1.0",
   "description": "React Native Keystore wrapper for creating cryptographic key pair for signing payloads",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
@@ -67,7 +67,7 @@
     "react": "19.2.0",
     "react-native": "0.83.0",
     "react-native-builder-bob": "^0.40.18",
-    "release-it": "^19.0.4",
+    "release-it": "^19.2.4",
     "turbo": "^2.5.6",
     "typescript": "^5.9.2"
   },
