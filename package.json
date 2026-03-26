@@ -41,8 +41,12 @@
   },
   "keywords": [
     "react-native",
-    "ios",
-    "android"
+    "android",
+    "signature",
+    "cryptographic",
+    "keypair",
+    "encryption",
+    "secure"
   ],
   "repository": {
     "type": "git",
