@@ -16,7 +16,6 @@ A React Native wrapper for Android Keystore that enables secure cryptographic ke
 
 - React Native 0.60+
 - Android API level 24+
-- iOS 11+ (Note: Core functionality is Android-specific)
 
 ## Installation
 
@@ -29,13 +28,6 @@ yarn add rn-android-keystore
 ### Android Setup
 
 No additional setup required. The package automatically links to your Android project.
-
-### iOS Setup
-
-Run:
-```sh
-cd ios && pod install && cd ..
-```
 
 ## Usage
 
@@ -308,7 +300,6 @@ if (!result.success) {
 ## Platform Support
 
 - **Android**: Full support (API 24+)
-- **iOS**: Not supported (returns error on iOS)
 
 ## Security Considerations
 
